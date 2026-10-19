@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pravind-creates.github.io/opsenta-website/sitemap.xml

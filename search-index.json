@@ -1,0 +1,50 @@
+[
+  {
+    "title": "AI copilot for plant operations — Cut emissions, not output",
+    "url": "index.html",
+    "description": "Opsenta is an AI copilot for refineries and process plants: explain drift in plain language, optimise yield and energy, and cut emissions without cutting output.",
+    "content": "AI copilot plant operations cut emissions not output operations sentinel historian alarms P&IDs shift logs drift yield energy Opsenta is an AI copilot for refineries and process plants: explain drift in plain language, optimise yield and energy, and cut emissions without cutting output. hero video animation sentinel scan live equipment watch drift demo bearing wear video plant operations monitoring"
+  },
+  {
+    "title": "Platform — Shared plant-data layer",
+    "url": "platform.html",
+    "description": "How Opsenta connects over Modbus and OPC UA to historians, alarms, P&IDs and shift logs — live equipment watch, plant overview and drift alarms, with no rip-and-replace.",
+    "content": "platform shared plant data layer Modbus OPC UA live equipment watch plant overview drift alarms no rip and replace historian How Opsenta connects over Modbus and OPC UA to historians, alarms, P&IDs and shift logs — live equipment watch, plant overview and drift alarms, with no rip-and-replace. video animation live equipment watch sentinel scan drift"
+  },
+  {
+    "title": "Operations Copilot — Why is the unit drifting?",
+    "url": "operations-copilot.html",
+    "description": "Opsenta Operations Copilot reads historian data, alarms, P&IDs and shift logs, explains drift in plain language and supports yield and energy optimisation.",
+    "content": "operations copilot drift plain language yield energy optimisation motor vibration historian alarms PIDs shift logs Opsenta Operations Copilot reads historian data, alarms, P&IDs and shift logs, explains drift in plain language and supports yield and energy optimisation."
+  },
+  {
+    "title": "Emissions Copilot — Compliance without cutting output",
+    "url": "emissions.html",
+    "description": "Emissions and methane compliance for EU methane rules, US EPA OOOOb, OGMP 2.0 and India CCTS/BRSR — with output-neutral mitigation ranked by emissions, output and margin.",
+    "content": "emissions copilot methane compliance EU methane US EPA OOOOb OGMP 2.0 India CCTS BRSR measure report verify output neutral margin Emissions and methane compliance for EU methane rules, US EPA OOOOb, OGMP 2.0 and India CCTS/BRSR — with output-neutral mitigation ranked by emissions, output and margin. animated emissions output bars illustrative emissions down output flat counter"
+  },
+  {
+    "title": "Proof & Lab — Honest early evidence",
+    "url": "proof.html",
+    "description": "Early, honest proof: motor-vibration MVP, NASA bearing dataset flagged ~55 hours before failure, and a live simulated tank/pump/heater plant with Modbus, OpenPLC and SCADA.",
+    "content": "proof lab NASA bearing dataset 55 hours before failure motor vibration MVP simulated tank pump heater Modbus OpenPLC FUXA Node-RED DWSIM Early, honest proof: motor-vibration MVP, NASA bearing dataset flagged ~55 hours before failure, and a live simulated tank/pump/heater plant with Modbus, OpenPLC and SCADA."
+  },
+  {
+    "title": "About — Founder Pravind Thakur",
+    "url": "about.html",
+    "description": "Opsenta founder Pravind Thakur: chemical engineering background, digitalisation consultant in oil & gas. Opsenta is a solo-founder, early-stage B2B startup for process plants.",
+    "content": "about founder Pravind Thakur chemical engineering digitalisation oil gas solo founder operations sentinel Opsenta founder Pravind Thakur: chemical engineering background, digitalisation consultant in oil & gas. Opsenta is a solo-founder, early-stage B2B startup for process plants."
+  },
+  {
+    "title": "Contact & Early Access",
+    "url": "contact.html",
+    "description": "Join Opsenta early access for refineries and process plants. No public email or phone yet — use this form note or connect on LinkedIn.",
+    "content": "contact join early access LinkedIn refineries petrochemical process plants form Join Opsenta early access for refineries and process plants. No public email or phone yet — use this form note or connect on LinkedIn."
+  },
+  {
+    "title": "Search Opsenta",
+    "url": "search.html",
+    "description": "Search the Opsenta website for operations copilot, emissions, methane, Modbus, vibration, proof and early access.",
+    "content": "search Opsenta site Search the Opsenta website for operations copilot, emissions, methane, Modbus, vibration, proof and early access."
+  }
+]
