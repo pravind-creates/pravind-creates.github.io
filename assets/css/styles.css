@@ -62,3 +62,10 @@ nav.main a:hover::after,nav.main a:focus-visible::after{width:100%}
   .reveal{opacity:1;transform:none}
   .hero-video video{display:none}
 }
+/* QA polish: breadcrumb, section CTAs, back-to-top */
+.breadcrumb{font-size:.9rem;color:var(--grey-500);margin-bottom:18px}.breadcrumb a{color:var(--grey-700)}
+.section-cta{margin-top:24px;font-weight:700}
+#back-to-top{cursor:pointer}
+form button{cursor:pointer}
+#prepared-message{border:1px solid var(--grey-200);border-radius:14px;padding:16px;margin-top:16px;background:var(--grey-50)}
+@media(max-width:640px){.bar-row{grid-template-columns:1fr}.hero{padding:56px 0 44px}section{padding:48px 0}}

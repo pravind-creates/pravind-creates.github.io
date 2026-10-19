@@ -66,3 +66,5 @@ document.addEventListener('DOMContentLoaded',()=>{
   if(reduced){ t=160; for(var i=0;i<140;i++){ var d=i>70?(i-70)*0.55:0; data.push(160-d*2+Math.sin(i*.25)*6);} draw(); if(alertBox)alertBox.classList.add('show'); return; }
   draw();
 })();
+// Back to top
+document.addEventListener('DOMContentLoaded',()=>{const b=document.getElementById('back-to-top'); if(b) b.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));});
